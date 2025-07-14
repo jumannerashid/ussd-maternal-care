@@ -1,0 +1,1410 @@
+[14-Apr-2025 08:55:56 UTC] PHP Warning:  Undefined array key "data" in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1487
+[14-Apr-2025 08:55:56 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1487
+[14-Apr-2025 08:55:56 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1522
+[14-Apr-2025 08:57:26 UTC] PHP Warning:  Undefined array key "data" in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1487
+[14-Apr-2025 08:57:26 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1487
+[14-Apr-2025 08:57:26 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1522
+[14-Apr-2025 19:35:22 UTC] PHP Fatal error:  Cannot redeclare ussdResponse() (previously declared in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php:5) in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1816
+[14-Apr-2025 19:50:14 UTC] PHP Fatal error:  Cannot redeclare ussdResponse() (previously declared in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php:5) in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1819
+[14-Apr-2025 19:51:05 UTC] PHP Warning:  Undefined array key "data" in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1492
+[14-Apr-2025 19:51:05 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1492
+[14-Apr-2025 19:51:05 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1527
+[14-Apr-2025 19:51:05 UTC] Search Type: , Search Term: Marry Luis, Results: Array
+(
+)
+
+[14-Apr-2025 19:59:07 UTC] PHP Warning:  Undefined array key "data" in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1491
+[14-Apr-2025 19:59:07 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1491
+[14-Apr-2025 19:59:07 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1526
+[14-Apr-2025 19:59:07 UTC] Search Type: , Term: Marry, Results: Array
+(
+)
+
+[14-Apr-2025 20:00:24 UTC] PHP Warning:  Undefined array key "data" in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1491
+[14-Apr-2025 20:00:24 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1491
+[14-Apr-2025 20:00:24 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1526
+[14-Apr-2025 20:00:24 UTC] Search Type: , Term: Marry Luis, Results: Array
+(
+)
+
+[14-Apr-2025 20:00:47 UTC] PHP Warning:  Undefined array key "data" in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1491
+[14-Apr-2025 20:00:47 UTC] PHP Deprecated:  json_decode(): Passing null to parameter #1 ($json) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1491
+[14-Apr-2025 20:00:47 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1526
+[14-Apr-2025 20:00:47 UTC] Search Type: , Term: 0763326931, Results: Array
+(
+)
+
+[14-Apr-2025 20:05:09 UTC] Search Type: 3, Term: %marry%, Results: Array
+(
+    [0] => Array
+        (
+            [id] => 15
+            [full_name] => Marry Jackson
+            [age] => 32
+            [national_id] => 555565656
+            [contact_number] => 8787879876
+            [emergency_contact_name] => markos
+            [emergency_contact_number] => 6565656565
+            [residence] => Mbezi
+            [gestational_age] => 0
+            [expected_birth_date] => 2025-08-13
+            [first_pregnancy] => 0
+            [previous_miscarriages] => N/A
+            [hiv_status] => No
+            [chronic_illnesses] => None
+            [past_complications] => N/A
+            [transport_access] => Yes
+            [clinic_id] => 
+            [created_at] => 2025-03-26 03:26:03
+            [updated_at] => 2025-03-26 03:26:03
+        )
+
+    [1] => Array
+        (
+            [id] => 16
+            [full_name] => Marry Jacob
+            [age] => 19
+            [national_id] => 878663536562728
+            [contact_number] => 0788888888
+            [emergency_contact_name] => Jacob
+            [emergency_contact_number] => 0909090909
+            [residence] => Mbezi
+            [gestational_age] => 0
+            [expected_birth_date] => 2025-07-15
+            [first_pregnancy] => 0
+            [previous_miscarriages] => N/A
+            [hiv_status] => No
+            [chronic_illnesses] => None
+            [past_complications] => N/A
+            [transport_access] => Yes
+            [clinic_id] => 1
+            [created_at] => 2025-03-26 04:02:14
+            [updated_at] => 2025-03-26 04:02:14
+        )
+
+    [2] => Array
+        (
+            [id] => 24
+            [full_name] => Marry Michael
+            [age] => 33
+            [national_id] => 111222322
+            [contact_number] => 0773326931
+            [emergency_contact_name] => Liois
+            [emergency_contact_number] => 0987654321
+            [residence] => mbezi
+            [gestational_age] => 0
+            [expected_birth_date] => 2025-09-12
+            [first_pregnancy] => 0
+            [previous_miscarriages] => N/A
+            [hiv_status] => No
+            [chronic_illnesses] => Hypertension
+            [past_complications] => N/A
+            [transport_access] => Yes
+            [clinic_id] => 1
+            [created_at] => 2025-04-04 05:53:33
+            [updated_at] => 2025-04-04 06:23:30
+        )
+
+    [3] => Array
+        (
+            [id] => 25
+            [full_name] => Marry Iniesta
+            [age] => 22
+            [national_id] => 1234565433
+            [contact_number] => 0763326031
+            [emergency_contact_name] => edery
+            [emergency_contact_number] => 1234567890
+            [residence] => mbezi
+            [gestational_age] => 0
+            [expected_birth_date] => 2025-08-09
+            [first_pregnancy] => 0
+            [previous_miscarriages] => N/A
+            [hiv_status] => No
+            [chronic_illnesses] => None
+            [past_complications] => N/A
+            [transport_access] => Yes
+            [clinic_id] => 1
+            [created_at] => 2025-04-04 06:25:32
+            [updated_at] => 2025-04-09 03:03:22
+        )
+
+    [4] => Array
+        (
+            [id] => 28
+            [full_name] => Marry Luis
+            [age] => 28
+            [national_id] => 22334
+            [contact_number] => 0763326931
+            [emergency_contact_name] => Mbappe
+            [emergency_contact_number] => 2222223333
+            [residence] => Mbwezi
+            [gestational_age] => 0
+            [expected_birth_date] => 2025-07-11
+            [first_pregnancy] => 0
+            [previous_miscarriages] => N/A
+            [hiv_status] => No
+            [chronic_illnesses] => None
+            [past_complications] => N/A
+            [transport_access] => Yes
+            [clinic_id] => 1
+            [created_at] => 2025-04-11 04:38:12
+            [updated_at] => 2025-04-11 04:38:12
+        )
+
+)
+
+[14-Apr-2025 20:05:31 UTC] PHP Warning:  Undefined variable $mother_index in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1656
+[14-Apr-2025 20:05:31 UTC] PHP Warning:  Undefined array key "" in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1656
+[14-Apr-2025 20:05:31 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1657
+[14-Apr-2025 20:05:31 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1658
+[14-Apr-2025 20:05:32 UTC] SMS Error: Unknown error
+[14-Apr-2025 20:06:29 UTC] Search Type: 3, Term: %marry%, Results: Array
+(
+    [0] => Array
+        (
+            [id] => 15
+            [full_name] => Marry Jackson
+            [age] => 32
+            [national_id] => 555565656
+            [contact_number] => 8787879876
+            [emergency_contact_name] => markos
+            [emergency_contact_number] => 6565656565
+            [residence] => Mbezi
+            [gestational_age] => 0
+            [expected_birth_date] => 2025-08-13
+            [first_pregnancy] => 0
+            [previous_miscarriages] => N/A
+            [hiv_status] => No
+            [chronic_illnesses] => None
+            [past_complications] => N/A
+            [transport_access] => Yes
+            [clinic_id] => 
+            [created_at] => 2025-03-26 03:26:03
+            [updated_at] => 2025-03-26 03:26:03
+        )
+
+    [1] => Array
+        (
+            [id] => 16
+            [full_name] => Marry Jacob
+            [age] => 19
+            [national_id] => 878663536562728
+            [contact_number] => 0788888888
+            [emergency_contact_name] => Jacob
+            [emergency_contact_number] => 0909090909
+            [residence] => Mbezi
+            [gestational_age] => 0
+            [expected_birth_date] => 2025-07-15
+            [first_pregnancy] => 0
+            [previous_miscarriages] => N/A
+            [hiv_status] => No
+            [chronic_illnesses] => None
+            [past_complications] => N/A
+            [transport_access] => Yes
+            [clinic_id] => 1
+            [created_at] => 2025-03-26 04:02:14
+            [updated_at] => 2025-03-26 04:02:14
+        )
+
+    [2] => Array
+        (
+            [id] => 24
+            [full_name] => Marry Michael
+            [age] => 33
+            [national_id] => 111222322
+            [contact_number] => 0773326931
+            [emergency_contact_name] => Liois
+            [emergency_contact_number] => 0987654321
+            [residence] => mbezi
+            [gestational_age] => 0
+            [expected_birth_date] => 2025-09-12
+            [first_pregnancy] => 0
+            [previous_miscarriages] => N/A
+            [hiv_status] => No
+            [chronic_illnesses] => Hypertension
+            [past_complications] => N/A
+            [transport_access] => Yes
+            [clinic_id] => 1
+            [created_at] => 2025-04-04 05:53:33
+            [updated_at] => 2025-04-04 06:23:30
+        )
+
+    [3] => Array
+        (
+            [id] => 25
+            [full_name] => Marry Iniesta
+            [age] => 22
+            [national_id] => 1234565433
+            [contact_number] => 0763326031
+            [emergency_contact_name] => edery
+            [emergency_contact_number] => 1234567890
+            [residence] => mbezi
+            [gestational_age] => 0
+            [expected_birth_date] => 2025-08-09
+            [first_pregnancy] => 0
+            [previous_miscarriages] => N/A
+            [hiv_status] => No
+            [chronic_illnesses] => None
+            [past_complications] => N/A
+            [transport_access] => Yes
+            [clinic_id] => 1
+            [created_at] => 2025-04-04 06:25:32
+            [updated_at] => 2025-04-09 03:03:22
+        )
+
+    [4] => Array
+        (
+            [id] => 28
+            [full_name] => Marry Luis
+            [age] => 28
+            [national_id] => 22334
+            [contact_number] => 0756598665
+            [emergency_contact_name] => Mbappe
+            [emergency_contact_number] => 2222223333
+            [residence] => Mbwezi
+            [gestational_age] => 0
+            [expected_birth_date] => 2025-07-11
+            [first_pregnancy] => 0
+            [previous_miscarriages] => N/A
+            [hiv_status] => No
+            [chronic_illnesses] => None
+            [past_complications] => N/A
+            [transport_access] => Yes
+            [clinic_id] => 1
+            [created_at] => 2025-04-11 04:38:12
+            [updated_at] => 2025-04-14 16:06:14
+        )
+
+)
+
+[14-Apr-2025 20:06:50 UTC] PHP Warning:  Undefined variable $mother_index in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1656
+[14-Apr-2025 20:06:50 UTC] PHP Warning:  Undefined array key "" in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1656
+[14-Apr-2025 20:06:50 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1657
+[14-Apr-2025 20:06:50 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1658
+[14-Apr-2025 20:06:51 UTC] SMS Error: Unknown error
+[14-Apr-2025 20:14:37 UTC] SMS Error: Unknown error
+[14-Apr-2025 20:31:13 UTC] SMS API Response: {"success":true,"sms":{"company_id":"8","mobile":"0756598665","message":"Vaccination scheduled for Tetanus Toxoid 2 on 2025-08-12 at Mwananyamala Regional Referral Hospital.","status":"success","updated_at":"2025-04-14T20:31:13.000000Z","created_at":"2025-04-14T20:31:13.000000Z","id":1900}}
+[14-Apr-2025 20:31:13 UTC] SMS Error: Unknown error
+[15-Apr-2025 05:47:19 UTC] PHP Warning:  Undefined array key "search_type" in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1887
+[15-Apr-2025 05:47:19 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'pw.registration_id' in 'where clause' in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php:1913
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php(1913): mysqli->prepare('\r\n             ...')
+#1 /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php(72): handleVaccinationUpdate(Object(mysqli), 'ATUid_6a1263654...', '+255756598665', Array)
+#2 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1913
+[15-Apr-2025 06:57:33 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2095
+[15-Apr-2025 07:12:02 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2096
+[15-Apr-2025 08:18:04 UTC] PHP Parse error:  syntax error, unexpected token "," in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2096
+[15-Apr-2025 08:22:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function getVaccinationUpdateProgress_VD() in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php:1836
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php(72): handleVaccinationUpdate(Object(mysqli), 'ATUid_629a50958...', '+255756598665', Array)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 1836
+[15-Apr-2025 09:25:05 UTC] PHP Fatal error:  Cannot redeclare ussdResponse() (previously declared in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php:5) in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2148
+[16-Apr-2025 18:02:42 UTC] PHP Fatal error:  Cannot redeclare ussdResponse() (previously declared in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php:5) in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2102
+[16-Apr-2025 18:03:28 UTC] PHP Warning:  Undefined variable $mother_index in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2014
+[16-Apr-2025 18:03:28 UTC] PHP Warning:  Undefined variable $selected_vaccine in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2015
+[16-Apr-2025 18:03:28 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2015
+[16-Apr-2025 21:45:22 UTC] PHP Warning:  Undefined array key "page" in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 166
+[16-Apr-2025 21:45:22 UTC] PHP Warning:  Undefined array key "page" in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 171
+[16-Apr-2025 21:45:22 UTC] PHP Warning:  Undefined array key "page" in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 176
+[16-Apr-2025 21:45:22 UTC] PHP Warning:  Undefined array key "page" in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 181
+[16-Apr-2025 21:45:22 UTC] PHP Warning:  Undefined array key "page" in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 186
+[16-Apr-2025 21:45:22 UTC] PHP Warning:  Undefined array key "page" in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 230
+[16-Apr-2025 21:45:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'date' in 'where clause' in /home/technol4/maternal.technologygenius14.com/dashboard.php:232
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/dashboard.php(232): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 232
+[16-Apr-2025 21:45:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'date' in 'where clause' in /home/technol4/maternal.technologygenius14.com/dashboard.php:232
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/dashboard.php(232): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 232
+[16-Apr-2025 21:49:30 UTC] Database Error: Access denied for user 'root'@'localhost' (using password: NO)
+[16-Apr-2025 21:50:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'technol4_maternal_health.activity_log' doesn't exist in /home/technol4/maternal.technologygenius14.com/dashboard.php:64
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/dashboard.php(64): mysqli->prepare('SELECT action, ...')
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 64
+[16-Apr-2025 21:50:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'technol4_maternal_health.activity_log' doesn't exist in /home/technol4/maternal.technologygenius14.com/dashboard.php:64
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/dashboard.php(64): mysqli->prepare('SELECT action, ...')
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 64
+[16-Apr-2025 21:55:25 UTC] PHP Warning:  Undefined array key "page" in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 83
+[16-Apr-2025 21:55:25 UTC] PHP Warning:  Undefined array key "page" in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 88
+[16-Apr-2025 21:55:25 UTC] PHP Warning:  Undefined array key "page" in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 93
+[16-Apr-2025 21:55:25 UTC] PHP Warning:  Undefined array key "page" in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 98
+[16-Apr-2025 21:55:25 UTC] PHP Warning:  Undefined array key "page" in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 103
+[16-Apr-2025 21:55:25 UTC] PHP Warning:  Undefined array key "page" in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 108
+[16-Apr-2025 21:55:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'technol4_maternal_health.emergency_requests' doesn't exist in /home/technol4/maternal.technologygenius14.com/dashboard.php:131
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/dashboard.php(131): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 131
+[16-Apr-2025 21:55:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'technol4_maternal_health.emergency_requests' doesn't exist in /home/technol4/maternal.technologygenius14.com/dashboard.php:131
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/dashboard.php(131): mysqli->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 131
+[16-Apr-2025 21:55:30 UTC] PHP Warning:  Undefined variable $vaccineStats in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:30 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:30 UTC] PHP Warning:  Undefined variable $vaccineStats in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:30 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:30 UTC] PHP Warning:  Undefined variable $vaccineStats in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:30 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:32 UTC] PHP Warning:  Undefined variable $vaccineStats in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:32 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:32 UTC] PHP Warning:  Undefined variable $vaccineStats in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:32 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:32 UTC] PHP Warning:  Undefined variable $vaccineStats in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:32 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:33 UTC] PHP Warning:  Undefined variable $vaccineStats in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:33 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:33 UTC] PHP Warning:  Undefined variable $vaccineStats in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:33 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:33 UTC] PHP Warning:  Undefined variable $vaccineStats in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:33 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 472
+[16-Apr-2025 21:55:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'technol4_maternal_health.emergency_requests' doesn't exist in /home/technol4/maternal.technologygenius14.com/dashboard.php:327
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/dashboard.php(327): mysqli->query('SELECT * FROM e...')
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 327
+[16-Apr-2025 22:51:33 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/login.php on line 61
+[16-Apr-2025 22:51:33 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/login.php on line 62
+[16-Apr-2025 22:51:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/technol4/maternal.technologygenius14.com/login.php:61) in /home/technol4/maternal.technologygenius14.com/login.php on line 64
+[16-Apr-2025 22:54:44 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/login.php on line 61
+[16-Apr-2025 22:54:44 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/login.php on line 62
+[16-Apr-2025 22:54:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/technol4/maternal.technologygenius14.com/login.php:61) in /home/technol4/maternal.technologygenius14.com/login.php on line 64
+[16-Apr-2025 22:59:18 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/login.php on line 61
+[16-Apr-2025 22:59:18 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/login.php on line 62
+[16-Apr-2025 22:59:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/technol4/maternal.technologygenius14.com/login.php:61) in /home/technol4/maternal.technologygenius14.com/login.php on line 64
+[16-Apr-2025 22:59:28 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/login.php on line 61
+[16-Apr-2025 22:59:28 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/login.php on line 62
+[16-Apr-2025 22:59:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/technol4/maternal.technologygenius14.com/login.php:61) in /home/technol4/maternal.technologygenius14.com/login.php on line 64
+[16-Apr-2025 23:12:33 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/login.php on line 61
+[16-Apr-2025 23:12:33 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/login.php on line 62
+[16-Apr-2025 23:12:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/technol4/maternal.technologygenius14.com/login.php:61) in /home/technol4/maternal.technologygenius14.com/login.php on line 64
+[16-Apr-2025 23:24:37 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'active' in 'where clause' in /home/technol4/maternal.technologygenius14.com/dashboard.php:55
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/dashboard.php(55): mysqli->prepare('SELECT COUNT(*)...')
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/dashboard.php on line 55
+[16-Apr-2025 23:49:33 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 29
+[16-Apr-2025 23:49:37 UTC] PHP Parse error:  syntax error, unexpected token "<" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 29
+[16-Apr-2025 23:54:14 UTC] PHP Parse error:  Unclosed '{' on line 27 in /home/technol4/maternal.technologygenius14.com/clinics.php on line 857
+[17-Apr-2025 00:15:36 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:36 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:36 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:36 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:36 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:36 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:37 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:37 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:37 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:37 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:37 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:37 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:38 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:38 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:39 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:39 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:39 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:39 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:39 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:48 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:48 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:48 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:48 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:48 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:48 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:49 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:49 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:49 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:49 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:49 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:49 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:49 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:49 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:49 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:50 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:50 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:50 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:50 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:50 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:50 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:50 UTC] PHP Warning:  Undefined array key "name" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:50 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 40
+[17-Apr-2025 00:15:50 UTC] PHP Warning:  Undefined array key "location" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:50 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 41
+[17-Apr-2025 00:15:50 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:15:50 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/clinics.php on line 42
+[17-Apr-2025 00:49:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'hw.name' in 'field list' in /home/technol4/maternal.technologygenius14.com/health_workers.php:92
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/health_workers.php(92): mysqli->prepare('SELECT hw.id, h...')
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 92
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 243
+[17-Apr-2025 00:53:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 243
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 244
+[17-Apr-2025 00:53:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 244
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 251
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 243
+[17-Apr-2025 00:53:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 243
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 244
+[17-Apr-2025 00:53:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 244
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 251
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 243
+[17-Apr-2025 00:53:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 243
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 244
+[17-Apr-2025 00:53:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 244
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 251
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 243
+[17-Apr-2025 00:53:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 243
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 244
+[17-Apr-2025 00:53:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 244
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 251
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 243
+[17-Apr-2025 00:53:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 243
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 244
+[17-Apr-2025 00:53:59 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 244
+[17-Apr-2025 00:53:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 251
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 264
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 264
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 264
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 264
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:17 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:17 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 264
+[17-Apr-2025 00:59:46 UTC] Authentication Error: User login successfully.
+[17-Apr-2025 00:59:46 UTC] SMS Failed: Authentication required.
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 264
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 264
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 264
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 264
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 264
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "created_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 256
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "updated_at" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 257
+[17-Apr-2025 00:59:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 264
+[17-Apr-2025 01:07:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:07:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:07:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:07:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:07:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:07:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:08:03 UTC] SMS Error: Unknown error
+[17-Apr-2025 01:08:03 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:08:03 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:08:03 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:08:03 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:08:03 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:08:03 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:08:03 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 01:18:45 UTC] SMS Error: Unknown error
+[17-Apr-2025 01:18:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:45 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:53 UTC] PHP Warning:  Undefined array key "full_name" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 39
+[17-Apr-2025 01:18:53 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 39
+[17-Apr-2025 01:18:53 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 40
+[17-Apr-2025 01:18:53 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 40
+[17-Apr-2025 01:18:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:18:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:19:31 UTC] SMS Error: Unknown error
+[17-Apr-2025 01:19:31 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:19:31 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:19:31 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:19:31 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:19:31 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:19:31 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:19:31 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:19:31 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:19:31 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:20:07 UTC] PHP Warning:  Undefined array key "full_name" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 39
+[17-Apr-2025 01:20:07 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 39
+[17-Apr-2025 01:20:07 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 40
+[17-Apr-2025 01:20:07 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 40
+[17-Apr-2025 01:20:07 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:20:07 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:20:07 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:20:07 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:20:07 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:20:07 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:20:07 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:20:07 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 01:20:07 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 07:10:39 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 07:10:39 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 07:10:39 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 07:10:39 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 07:10:39 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 07:10:39 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 07:10:39 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 07:10:39 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 07:10:39 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 274
+[17-Apr-2025 07:23:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 07:23:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 07:23:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 07:23:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 07:23:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 07:23:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 07:23:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 07:23:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 07:23:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 206
+[17-Apr-2025 07:47:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 07:47:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 07:47:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 07:47:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 07:47:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 07:47:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 07:47:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 07:47:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 07:47:59 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 08:38:50 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 08:38:50 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 08:38:50 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 08:38:50 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 08:38:50 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 08:38:50 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 08:38:50 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 08:38:50 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[17-Apr-2025 08:38:50 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[19-Apr-2025 22:15:03 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/appointments.php on line 393
+[19-Apr-2025 22:15:03 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/appointments.php on line 394
+[19-Apr-2025 22:15:22 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/appointments.php on line 393
+[19-Apr-2025 22:15:22 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/appointments.php on line 394
+[19-Apr-2025 22:48:22 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/appointments.php on line 455
+[19-Apr-2025 22:52:59 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/appointments.php on line 455
+[19-Apr-2025 23:10:08 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/appointments.php on line 455
+[19-Apr-2025 23:10:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/appointments.php on line 455
+[20-Apr-2025 06:53:34 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 380
+[20-Apr-2025 06:53:34 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 380
+[20-Apr-2025 06:53:34 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 380
+[20-Apr-2025 06:53:34 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 380
+[20-Apr-2025 06:54:15 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 380
+[20-Apr-2025 06:54:15 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 380
+[20-Apr-2025 06:54:15 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 380
+[20-Apr-2025 06:54:15 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 380
+[20-Apr-2025 06:56:48 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'clinic_id' in 'where clause' in /home/technol4/maternal.technologygenius14.com/vaccines.php:96
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccines.php(96): mysqli->prepare('\r\n        SELEC...')
+#1 /home/technol4/maternal.technologygenius14.com/vaccines.php(134): get_metrics(0)
+#2 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 96
+[20-Apr-2025 07:17:06 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:17:06 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:17:06 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:17:06 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:43:42 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:43:42 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:43:42 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:43:42 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:43:58 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:43:58 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:43:58 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:43:58 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:44:02 UTC] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 83
+[20-Apr-2025 07:44:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/technol4/maternal.technologygenius14.com/vaccines.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 83
+[20-Apr-2025 07:44:06 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:44:06 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:44:06 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:44:06 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 255
+[20-Apr-2025 07:45:02 UTC] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 83
+[20-Apr-2025 07:45:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/technol4/maternal.technologygenius14.com/vaccines.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 83
+[20-Apr-2025 07:53:00 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 254
+[20-Apr-2025 07:53:00 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 254
+[20-Apr-2025 07:53:00 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 254
+[20-Apr-2025 07:53:00 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 254
+[20-Apr-2025 07:53:04 UTC] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 83
+[20-Apr-2025 07:53:04 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/technol4/maternal.technologygenius14.com/vaccines.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 83
+[21-Apr-2025 07:31:54 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 254
+[21-Apr-2025 07:31:54 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 254
+[21-Apr-2025 07:31:54 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 254
+[21-Apr-2025 07:31:54 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 254
+[21-Apr-2025 07:42:34 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:34 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:34 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:34 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:40 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:40 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:40 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:40 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:40 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:40 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:40 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:40 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:47 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:42:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:45 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:45 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:45 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:45 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:45 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:49 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:50 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:50 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:50 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:50 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:50 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:50 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:50 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:50 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:50 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:52 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:54 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:54 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:54 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:54 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:54 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:54 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:54 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:54 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Warning:  Undefined variable $host in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Warning:  Undefined variable $username in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Warning:  Undefined variable $password in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Warning:  Undefined variable $dbname in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 07:55:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user ''@'localhost' (using password: NO) in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:10
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/vaccine_actions.php(10): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 10
+[21-Apr-2025 08:31:37 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 241
+[21-Apr-2025 08:38:34 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 241
+[21-Apr-2025 09:02:23 UTC] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #4 could not be passed by reference in /home/technol4/maternal.technologygenius14.com/alerts.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/alerts.php on line 83
+[21-Apr-2025 09:09:48 UTC] PHP Warning:  Undefined array key "village" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 51
+[21-Apr-2025 09:09:48 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 51
+[21-Apr-2025 09:10:35 UTC] PHP Warning:  Undefined array key "village" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 51
+[21-Apr-2025 09:10:35 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 51
+[21-Apr-2025 09:10:44 UTC] PHP Warning:  Undefined array key "village" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 51
+[21-Apr-2025 09:10:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 51
+[21-Apr-2025 09:18:16 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 09:18:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 09:18:16 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[21-Apr-2025 09:18:16 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[21-Apr-2025 09:20:40 UTC] PHP Warning:  require_once(tcpdf/tcpdf.php): Failed to open stream: No such file or directory in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 84
+[21-Apr-2025 09:20:40 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'tcpdf/tcpdf.php' (include_path='.:/opt/cpanel/ea-php83/root/usr/share/pear') in /home/technol4/maternal.technologygenius14.com/vaccines.php:84
+Stack trace:
+#0 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccines.php on line 84
+[21-Apr-2025 09:21:21 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 09:21:21 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 09:21:30 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 09:21:30 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 10:00:55 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 222
+[21-Apr-2025 10:00:55 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 229
+[21-Apr-2025 10:00:55 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 222
+[21-Apr-2025 10:00:55 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 229
+[21-Apr-2025 10:00:55 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 222
+[21-Apr-2025 10:00:55 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 229
+[21-Apr-2025 10:00:55 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 222
+[21-Apr-2025 10:00:55 UTC] PHP Warning:  Undefined array key "mother_id" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 229
+[21-Apr-2025 10:13:08 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 262
+[21-Apr-2025 10:13:08 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 262
+[21-Apr-2025 10:13:08 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 262
+[21-Apr-2025 10:13:08 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 262
+[21-Apr-2025 10:26:02 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 10:26:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 10:26:02 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[21-Apr-2025 10:26:02 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[21-Apr-2025 10:27:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendSms() in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 92
+[21-Apr-2025 10:27:25 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 10:27:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 10:27:25 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[21-Apr-2025 10:27:25 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[21-Apr-2025 10:28:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendSms() in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/vaccine_actions.php on line 92
+[21-Apr-2025 11:21:51 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 11:21:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 11:21:51 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[21-Apr-2025 11:21:51 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[21-Apr-2025 11:38:49 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 11:38:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 11:38:49 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[21-Apr-2025 11:38:49 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[21-Apr-2025 11:39:01 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 11:39:01 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 11:45:47 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 11:45:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 16:55:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 16:55:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 16:55:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 16:55:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 16:55:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 16:55:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 16:55:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 16:55:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 16:55:53 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 17:00:56 UTC] PHP Warning:  Undefined array key "status" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 211
+[21-Apr-2025 17:00:56 UTC] PHP Warning:  Undefined array key "status" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 212
+[21-Apr-2025 17:00:56 UTC] PHP Warning:  Undefined array key "status" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 214
+[21-Apr-2025 17:00:56 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/alerts.php on line 214
+[21-Apr-2025 17:04:37 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 17:04:37 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 17:04:37 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 17:04:37 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 17:04:37 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 17:04:37 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 17:04:37 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 17:04:37 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 17:04:37 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 194
+[21-Apr-2025 17:05:12 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[21-Apr-2025 17:05:12 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[21-Apr-2025 17:05:12 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[21-Apr-2025 17:05:12 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[21-Apr-2025 17:05:12 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[21-Apr-2025 17:05:12 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[21-Apr-2025 17:05:12 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[21-Apr-2025 17:05:12 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[21-Apr-2025 17:05:12 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[21-Apr-2025 17:05:29 UTC] PHP Warning:  Undefined array key "status" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 211
+[21-Apr-2025 17:05:29 UTC] PHP Warning:  Undefined array key "status" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 212
+[21-Apr-2025 17:05:29 UTC] PHP Warning:  Undefined array key "status" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 214
+[21-Apr-2025 17:05:29 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/alerts.php on line 214
+[21-Apr-2025 17:23:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'technol4_maternal_health.audit_logs' doesn't exist in /home/technol4/maternal.technologygenius14.com/user_settings.php:123
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/user_settings.php(123): mysqli->prepare('\r\n    SELECT ac...')
+#1 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/user_settings.php on line 123
+[21-Apr-2025 17:25:33 UTC] PHP Warning:  Undefined variable $stmt in /home/technol4/maternal.technologygenius14.com/user_settings.php on line 124
+[21-Apr-2025 17:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on null in /home/technol4/maternal.technologygenius14.com/user_settings.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/user_settings.php on line 124
+[21-Apr-2025 17:25:47 UTC] PHP Warning:  Undefined variable $stmt in /home/technol4/maternal.technologygenius14.com/user_settings.php on line 125
+[21-Apr-2025 17:25:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in /home/technol4/maternal.technologygenius14.com/user_settings.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/user_settings.php on line 125
+[21-Apr-2025 17:26:05 UTC] PHP Warning:  Undefined array key "admin_email" in /home/technol4/maternal.technologygenius14.com/user_settings.php on line 322
+[21-Apr-2025 17:26:05 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/user_settings.php on line 322
+[21-Apr-2025 17:26:05 UTC] PHP Warning:  Undefined variable $audit_logs in /home/technol4/maternal.technologygenius14.com/user_settings.php on line 357
+[21-Apr-2025 17:26:05 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/technol4/maternal.technologygenius14.com/user_settings.php on line 357
+[21-Apr-2025 17:27:08 UTC] PHP Warning:  Undefined array key "status" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 211
+[21-Apr-2025 17:27:08 UTC] PHP Warning:  Undefined array key "status" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 212
+[21-Apr-2025 17:27:08 UTC] PHP Warning:  Undefined array key "status" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 214
+[21-Apr-2025 17:27:08 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/alerts.php on line 214
+[21-Apr-2025 17:27:18 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 17:27:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[21-Apr-2025 17:27:18 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[21-Apr-2025 17:27:18 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[22-Apr-2025 05:23:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:23:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:23:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:23:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:23:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:23:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:23:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:23:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:23:47 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:26:44 UTC] PHP Warning:  Undefined array key "status" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 211
+[22-Apr-2025 05:26:44 UTC] PHP Warning:  Undefined array key "status" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 212
+[22-Apr-2025 05:26:44 UTC] PHP Warning:  Undefined array key "status" in /home/technol4/maternal.technologygenius14.com/alerts.php on line 214
+[22-Apr-2025 05:26:44 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/alerts.php on line 214
+[22-Apr-2025 05:33:43 UTC] PHP Warning:  Undefined variable $badgeColor in /home/technol4/maternal.technologygenius14.com/alerts.php on line 221
+[22-Apr-2025 05:33:43 UTC] PHP Warning:  Undefined variable $status in /home/technol4/maternal.technologygenius14.com/alerts.php on line 222
+[22-Apr-2025 05:33:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/alerts.php on line 222
+[22-Apr-2025 05:39:26 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[22-Apr-2025 05:39:26 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[22-Apr-2025 05:39:26 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[22-Apr-2025 05:39:26 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[22-Apr-2025 05:40:57 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:40:57 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:40:57 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:40:57 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:40:57 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:40:57 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:40:57 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:40:57 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 05:40:57 UTC] PHP Warning:  Undefined array key "clinic_id" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 237
+[22-Apr-2025 09:16:02 UTC] PHP Warning:  Undefined array key "full_name" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 39
+[22-Apr-2025 09:16:02 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 39
+[22-Apr-2025 09:16:02 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 40
+[22-Apr-2025 09:16:02 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 40
+[22-Apr-2025 09:16:10 UTC] PHP Warning:  Undefined array key "full_name" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 39
+[22-Apr-2025 09:16:10 UTC] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 39
+[22-Apr-2025 09:16:10 UTC] PHP Warning:  Undefined array key "phone_number" in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 40
+[22-Apr-2025 09:16:10 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in /home/technol4/maternal.technologygenius14.com/health_workers.php on line 40
+[22-Apr-2025 09:25:07 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[22-Apr-2025 09:25:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[22-Apr-2025 09:25:07 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[22-Apr-2025 09:25:07 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[22-Apr-2025 10:00:52 UTC] SMS Error: Unknown error
+[22-Apr-2025 10:01:23 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'technol4_maternal_health.birth_progress' doesn't exist in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php:837
+Stack trace:
+#0 /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php(837): mysqli->prepare('\r\n        SELEC...')
+#1 /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php(690): getBirthProgress(Object(mysqli), 'ATUid_a1563a90d...')
+#2 /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php(58): handleBirthRegistration(Object(mysqli), 'ATUid_a1563a90d...', '+255756598665', Array)
+#3 {main}
+  thrown in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 837
+[22-Apr-2025 10:02:26 UTC] SMS API Response: {"success":true,"sms":{"company_id":"8","mobile":"0763326931","message":"Vaccination scheduled for Tetanus Toxoid 1 on 2025-06-12 at Mwananyamala Regional Referral Hospital.","status":"success","updated_at":"2025-04-22T10:02:25.000000Z","created_at":"2025-04-22T10:02:25.000000Z","id":1948}}
+[22-Apr-2025 10:02:26 UTC] SMS Error: Unknown error
+[22-Apr-2025 10:05:50 UTC] PHP Warning:  Undefined variable $mother_index in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2011
+[22-Apr-2025 10:05:50 UTC] PHP Warning:  Undefined variable $selected_vaccine in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2012
+[22-Apr-2025 10:05:50 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2012
+[22-Apr-2025 10:17:50 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[22-Apr-2025 10:17:50 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[22-Apr-2025 10:17:50 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[22-Apr-2025 10:17:50 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[22-Apr-2025 11:25:16 UTC] SMS Error: Unknown error
+[22-Apr-2025 11:36:01 UTC] SMS API Response: {"success":true,"sms":{"company_id":"8","mobile":"0625588665","message":"Vaccination scheduled for Tetanus Toxoid 1 on 2025-07-23 at Mwananyamala Regional Referral Hospital.","status":"success","updated_at":"2025-04-22T11:36:01.000000Z","created_at":"2025-04-22T11:36:01.000000Z","id":1950}}
+[22-Apr-2025 11:36:01 UTC] SMS Error: Unknown error
+[22-Apr-2025 11:36:34 UTC] PHP Warning:  Undefined variable $mother_index in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2011
+[22-Apr-2025 11:36:34 UTC] PHP Warning:  Undefined variable $selected_vaccine in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2012
+[22-Apr-2025 11:36:34 UTC] PHP Warning:  Trying to access array offset on null in /home/technol4/maternal.technologygenius14.com/ussd_main_menu.php on line 2012
+[22-Apr-2025 18:51:39 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[22-Apr-2025 18:51:39 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[22-Apr-2025 18:51:39 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[22-Apr-2025 18:51:39 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 109
+[19-May-2025 11:26:47 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[19-May-2025 11:26:47 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[19-May-2025 11:26:53 UTC] PHP Warning:  Undefined array key "clinic" in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
+[19-May-2025 11:26:53 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in /home/technol4/maternal.technologygenius14.com/get_mother.php on line 86
